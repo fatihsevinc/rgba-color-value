@@ -1,0 +1,13 @@
+{
+  "packageName": "rgba-color-value",
+  "name": "Rgba Color Value",
+  "description": "Generates rgba color value from text and layers.",
+  "version": "0.1.0",
+  "platforms": [
+    "web",
+    "android",
+    "ios"
+  ],
+  "moduleURL": "./main.js",
+  "readmeURL": "./README.md"
+}

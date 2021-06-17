@@ -1,0 +1,25 @@
+{
+  "name": "rgba-color-value",
+  "version": "0.1.0",
+  "description": "Generates rgba color value from text and layers.",
+  "sideEffects": false,
+  "scripts": {
+    "start": "zem start",
+    "build": "zem build",
+    "clean": "zem clean",
+    "exec": "zem exec",
+    "test": "zem test",
+    "publish": "zem publish"
+  },
+  "zeplin": {
+    "displayName": "Rgba Color Value",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "zem": "^1.3.0"
+  }
+}
